@@ -12,3 +12,11 @@ Aspen Capital is a private equity firm with offices in Portland, OR and New York
 * We're looking for more than just a fullscreen map of points.
 * Your application should be both intuitive and visually appealing.
 * Your application should highlight your eye for design and creativity.
+
+### Technical
+* The application needs to be written primarily in JavaScript - with HTML markup and CSS stylesheets.
+  * JavaScript frameworks like Angular, Vue (we currently use this at Aspen), and React are great - not mandatory.
+  * CSS preprocessors would be nice - but are also not mandatory.
+* Your code submission should demonstrate your ability and understanding of writing clear and concise JavaScript.
+* Your submission should also higlight your proficiency in implementing clean and resuable HTML markup and CSS styling.
+* Unlike some of the examples below - we do not want to see a single file HTML file with JavaScript and inline script/link tags.
