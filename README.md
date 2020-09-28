@@ -44,3 +44,8 @@ We do not expect you to have familiarity with any of the particular libraries be
 * [ArcGIS API for JavaScript](https://developers.arcgis.com/javascript/3/jshelp/)
 * [Google Maps Javascript API](https://developers.google.com/maps/documentation/javascript/overview)
 * [CARTO.js](https://carto.com/developers/carto-js/)
+
+## Submission
+* Your submission should be accessible in a public git repository that includes a README.md with all the pertinent information of how to run your application. The expectation is that we can easily follow the steps provided and run the application without much leg/guesswork.
+* If your submission does include additional artifacts that are not represented within the repository - the README should provide information on how to retrieve and access these items.
+* Your challenge is due XX days after receiving an invitation to participate in this portion of the interview process.
