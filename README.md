@@ -15,8 +15,32 @@ Aspen Capital is a private equity firm with offices in Portland, OR and New York
 
 ### Technical
 * The application needs to be written primarily in JavaScript - with HTML markup and CSS stylesheets.
-  * JavaScript frameworks like Angular, Vue (we currently use this at Aspen), and React are great - not mandatory.
-  * CSS preprocessors would be nice - but are also not mandatory.
+  * JavaScript frameworks like Angular, Vue (we currently use this at Aspen), and React are great - but not mandatory.
+  * CSS preprocessors would be ideal - but are also not mandatory.
 * Your code submission should demonstrate your ability and understanding of writing clear and concise JavaScript.
+  * This ideally would include any asynchronous call(s) to fetch the provided commercial data.
 * Your submission should also higlight your proficiency in implementing clean and resuable HTML markup and CSS styling.
-* Unlike some of the examples below - we do not want to see a single file HTML file with JavaScript and inline script/link tags.
+* Unlike some of the starter examples below - we do not want a single HTML file with JavaScript and inline script/link tags.
+
+## Mapping Libraries
+We do not expect you to have familiarity with any of the particular libraries below. As a courtesy, we are also passing along basic GeoJSON examples created by the providers themselves - in hopes to help cut down on the initial implementation time. Feel free to use any mapping libary of your choosing - even if it's not listed here!
+
+#### Leaflet
+* [Homepage](https://leafletjs.com/)
+* [GitHub](https://github.com/Leaflet/Leaflet)
+* [GeoJSON Example](https://github.com/Leaflet/Leaflet/blob/master/docs/examples/geojson/geojson-example.html)
+
+#### OpenLayers
+* [Homepage](https://openlayers.org/)
+* [GitHub](https://github.com/openlayers/openlayers)
+* [GeoJSON Example](https://openlayers.org/en/latest/examples/geojson.html)
+
+#### Mapbox GL JS
+* [Homepage](https://docs.mapbox.com/mapbox-gl-js/api/)
+* [GitHub](https://github.com/mapbox/mapbox-gl-js)
+* [GeoJSON Example](https://docs.mapbox.com/mapbox-gl-js/example/geojson-markers/)
+
+#### Other Options
+* [ArcGIS API for JavaScript](https://developers.arcgis.com/javascript/3/jshelp/)
+* [Google Maps Javascript API](https://developers.google.com/maps/documentation/javascript/overview)
+* [CARTO.js](https://carto.com/developers/carto-js/)
