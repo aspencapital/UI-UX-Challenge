@@ -2,7 +2,7 @@
 Welcome to Aspen Capital's UI-UX Engineer challenge. This assignment will help us better assess your technical and design skills. You will be given XX days to work on this. We recommend that you focus on the requirements listed below and if time permitting - work on any additional features (of your own choosing). These additional features can be new, functional pieces within the application or even relevant design artifacts (wireframe, color palettes, etc.).
 
 ## Background
-Aspen Capital is a private equity firm with offices in Portland, OR and New York, NY. We utilize data and technology to enhance business insight, propel growth, transform our investment strategies and business operations, and execute industry-leading deals. For this exercise, imagine that Aspen owns several commercial real estate properties - all of which currently operate as a chain of coffee shops within the Portland metro area. The company has tasked you with designing and implementing a simple dashboard interface that will spatially display all of our commercial properties and provide access to information about each location.
+For this exercise, imagine that Aspen owns several commercial real estate properties - all of which currently operate as a chain of coffee shops within the Portland metro area. The company has tasked you with designing and implementing a simple dashboard interface that will spatially display all of our commercial properties and provide access to information about each location.
 
 ## Requirements
 ### High Level
