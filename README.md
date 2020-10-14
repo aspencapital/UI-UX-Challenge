@@ -1,5 +1,5 @@
 ## Introduction
-Welcome to Aspen Capital's UI-UX Engineer challenge. This assignment will help us better assess your technical and design skills. You will be given XX days to work on this. We recommend that you focus on the requirements listed below and if time permitting - work on any additional features (of your own choosing). These additional features can be new, functional pieces within the application or even relevant design artifacts (wireframe, color palettes, etc.).
+Welcome to Aspen Capital's UI-UX Engineer challenge. This assignment will help us better assess your technical and design skills. We recommend that you focus on the requirements listed below and if time permitting - work on any additional features (of your own choosing). These additional features can be new, functional pieces within the application or even relevant design artifacts (wireframe, color palettes, etc.).
 
 ## Background
 For this exercise, imagine that Aspen owns several commercial real estate properties - all of which currently operate as a chain of coffee shops within the Portland metro area. The company has tasked you with designing and implementing a simple dashboard interface that will spatially display all of our commercial properties and provide access to information about each location.
@@ -48,4 +48,4 @@ We do not expect you to have familiarity with any of the particular libraries be
 ## Submission
 * Your submission should be accessible in a public git repository that includes a README.md with all the pertinent information of how to run your application. The expectation is that we can easily follow the steps provided and run the application without much leg/guesswork.
 * If your submission does include additional artifacts that are not represented within the repository - the README should provide information on how to retrieve and access these items.
-* Your challenge is due XX days after receiving an invitation to participate in this portion of the interview process.
+* We will only review submissions of those that have been extended an invitation to participate in this portion of the interview process.
